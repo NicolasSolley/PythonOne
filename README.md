@@ -1,3 +1,2 @@
 # PythonOne
-My first python program
-
+This is my first python file during my path to learning python.
